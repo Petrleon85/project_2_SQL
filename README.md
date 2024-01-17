@@ -58,9 +58,8 @@ PROJECT_2. Анализ резюме из HeadHunter с целью изучен�
 
 Проект загружен на [GitHub](https://github.com/Petrleon85/project_2_SQL.git), обеспечена воспроизводимость кода:
 
-*   [project_2_hh.ipynb]((project_2_SQL.ipynb)) - ноутбук-шаблон с решениями заданий;
-*   [data](https://drive.google.com/drive/folders/1l4yg8CEw5fBAQIi6J3NNf21YBwysMBAh?usp=drive_link) - данные, на основе которых делался проект;
-*   [все графики в формате html](https://drive.google.com/drive/folders/1dO4_uAtK_D7VnGWpd1Ft6YVEEuEul59m?usp=drive_link)
+*   [project_2_SQL.ipynb]((project_2_SQL.ipynb)) - ноутбук-шаблон с решениями заданий;
+*   [Графики](https://drive.google.com/drive/folders/1dO4_uAtK_D7VnGWpd1Ft6YVEEuEul59m?usp=drive_link)
 *   [requirements.txt](requirements.txt) - актульные версии библиотек на момент подготовки проекта;
 *   [обратная связь от ментора.]
 
