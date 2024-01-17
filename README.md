@@ -60,6 +60,7 @@ PROJECT_2. Анализ резюме из HeadHunter с целью изучен�
 
 *   [project_2_SQL.ipynb]((project_2_SQL.ipynb)) - ноутбук-шаблон с решениями заданий;
 *   [Графики](https://drive.google.com/drive/folders/1MDxvtu4IpmsAAmeuN7HqFgT86S12xo--?usp=drive_link)
+*   [config.txt](https://drive.google.com/file/d/1O7LRL3kv93pF4MfH7sn-atX1Dji7nHFe/view?usp=drive_link)
 *   [requirements.txt](requirements.txt) - актульные версии библиотек на момент подготовки проекта;
 *   [обратная связь от ментора.]
 
